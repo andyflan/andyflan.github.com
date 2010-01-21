@@ -1,0 +1,14 @@
+body {
+	font-family: georgia, "times new roman", times, serif;
+	font-size: 62.5%;
+	background-color: #232323;
+	color: #fff;
+}
+
+h1 {
+	font-size: 3em;	
+}
+
+#container {
+	background-color: #000000;	
+}
